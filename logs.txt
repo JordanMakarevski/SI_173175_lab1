@@ -1,0 +1,5 @@
+commit 468515d91651edb012f746c09482e9b6e0557d60 (HEAD -> logs, origin/master, master)
+Author: Jordan Makarevski <jordanmakarevski@hotmail.com>
+Date:   Thu Apr 4 09:44:14 2019 +0200
+
+    Initial commit
